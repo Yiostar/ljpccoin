@@ -1,0 +1,9 @@
+Building LJpccoin
+
+See doc/readme-qt.rst for instructions on building LJpccoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of LJpccoin.
+
+See doc/build-*.txt for instructions on building ljpccoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of LJpccoin.
